@@ -21,3 +21,10 @@ docker run -p 2181:2181 -d -p 9092:9092 --name test-servicekafka --network aforo
 ```
 
 Finalmente para instalar el Microservicio, se debe ejecutar el archivo [test-invoice.sh](https://github.com/jhonariza03/AforoTest-Invoice/blob/main/test-ms-invoice/test-invoice.sh) que se encuentra en la raiz del proyecto
+
+## Uso
+### Postman Collection
+
+Puede Importar la colección de Postman desde el siguiente enlace [PostmanCollection](https://www.getpostman.com/collections/38c4dfee61c3b37b05ea) o descargar el JSON que se encuentra en el presente proyecto [PostmanJSON](https://github.com/jhonariza03/AforoTest-Config/blob/main/Aforo-Test-Final.postman_collection.json)
+
+
