@@ -2,7 +2,7 @@
 El microservicio de invoices, debe listar las facturas de clientes y además debe consumir una cola para cambiar el estado de la factura cuando esta se paga a través del microservicio de pago.
 
 ## Instalación
-Todos los microservicios deben estar demtro de la RED aforo255-test
+Todos los microservicios deben estar dentro de la RED aforo255-test
 
 ```bash
 docker network create aforo255-test
